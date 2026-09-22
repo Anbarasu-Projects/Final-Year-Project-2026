@@ -109,5 +109,5 @@ The easiest way to run the project is using Google Colab.
 Some experiments require a GPU runtime.
 
 ## Dataset links
-https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset
-https://www.kaggle.com/datasets/kmader/mias-mammography
+- https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset
+- https://www.kaggle.com/datasets/kmader/mias-mammography
