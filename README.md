@@ -101,7 +101,7 @@ Several adaptation approaches are investigated, including:
 
 ## Running the Project
 The easiest way to run the project is using Google Colab.
-1. Download `FYP_mammography_cross_dataset.ipynb`.
+1. Download `FYP_mammography_cross_dataset_GitHub.ipynb`.
 2. Upload the notebook to Google Colab.
 3. Configure access to the required datasets.
 4. Run the notebook cells in order.
