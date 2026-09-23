@@ -1,6 +1,6 @@
 # Final Year Project 2026
 
-## Cross-Dataset Evaluation of Explainable Deep Learning Models for Breast Cancer Detection Using CBIS-DDSM and MIAS Mammography Images
+## Deep Learning Breast Cancer Detection Across Sites: A Cross-Dataset Evaluation of CNN Lesion Classifiers on CBIS-DDSM and MIAS
 
 This repository contains the implementation developed for my Final Year Project.
 
